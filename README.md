@@ -4,6 +4,6 @@
 
 Curso de introdução a Python para pessoas vindo de outras linguagens.
 
-O trabalho ainda está bem no início!
+
 
 Você pode navegar pelo conteúdo clicando diretamente nos arquivos da parte que você tem interesse e — caso queira um ambiente interativo — clique no ícone "Launch Binder" para iniciar um ambiente Jupyter hospedado no [MyBinder](https://mybinder.org/).
