@@ -2,6 +2,8 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fbidu/stairway-to-python/master)
 
+[Formulário de Feedback para os que estiveram na Semcomp](https://goo.gl/forms/5cnJhGjizwTfPuRY2)
+
 Curso de introdução a Python para pessoas vindo de outras linguagens.
 
 
