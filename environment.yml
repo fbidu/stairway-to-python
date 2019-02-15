@@ -1,0 +1,9 @@
+name: example-environment
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python
+  - biopython
+  - pip:
+    - file2dna
