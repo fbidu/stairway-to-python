@@ -2,6 +2,7 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/LaCTAD/stairway-to-biopython/master)
 
+[Slides](http://bit.ly/lactad-bio)
 
 Curso de introdução a Python para pessoas vindo de outras linguagens com foco em Python para Bioinformática usando Python. Esse curso foi oferecido experimentalmente junto do [XVII Curso de Bioinformática do LaCTAD](https://www.lactad.unicamp.br/br/eventos/xvii-curso-de-bioinformatica/)
 
