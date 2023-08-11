@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "stairway-to-python"
+version = "0.1.0"
+description = "Curso de Python Interativo"
+authors = ["Felipe Bidu <felipe@felipevr.com>"]
+license = "CC-BY-SA-4.0"
+readme = "README.md"
+packages = [{include = "stairway_to_python"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+notebook = "^7.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
