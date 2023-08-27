@@ -10,6 +10,7 @@ packages = [{include = "stairway_to_python"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 notebook = "^7.0.2"
+pandas = "^2.0.3"
 
 
 [build-system]
