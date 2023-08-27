@@ -11,6 +11,7 @@ packages = [{include = "stairway_to_python"}]
 python = "^3.11"
 notebook = "^7.0.2"
 pandas = "^2.0.3"
+matplotlib = "^3.7.2"
 
 
 [build-system]
