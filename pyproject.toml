@@ -13,6 +13,7 @@ notebook = "^7.0.2"
 pandas = "^2.0.3"
 matplotlib = "^3.7.2"
 plotly = "^5.16.1"
+ipywidgets = "^8.1.0"
 
 
 [build-system]
